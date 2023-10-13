@@ -1,5 +1,5 @@
 # SwitchLight Studio (No Internet Needed)
-<p align="center"><img src="https://desktop.beeble.ai/public/youtube-banner-2.png"></p>
+<p align="center"><img style="width: 500px;" src="https://desktop.beeble.ai/public/youtube-banner-2.png"></p>
 
 ## Usage
 
